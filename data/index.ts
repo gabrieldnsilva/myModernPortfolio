@@ -1,8 +1,10 @@
+import { img } from "framer-motion/client";
+
 export const navItems = [
-	{ name: "About", link: "#about" },
-	{ name: "Projects", link: "#projects" },
-	{ name: "Testimonials", link: "#testimonials" },
-	{ name: "Contact", link: "#contact" },
+	{ name: "Sobre", link: "#sobre" },
+	{ name: "Projetos", link: "#projetos" },
+	{ name: "Feedbacks", link: "#feedbacks" },
+	{ name: "Contato", link: "#contato" },
 ];
 
 export const gridItems = [
@@ -180,24 +182,25 @@ export const companies = [
 export const workExperience = [
 	{
 		id: 1,
-		title: "IT Assistant",
-		desc: "Describe your experience here",
+		title: "Auxiliar de TI",
+		desc: "Suporte a sistemas comericais de vendas, gerenciamento de servidores, resolução de problemas técnicos e aplicação de políticas de segurança de informação.Participo e gerencio treinamentos relacionados a área de tecnologia, assim como monitoro a qualidade dos serviços entregues",
 		className: "md:col-span-2",
 		thumbnail: "/exp1.svg", // Replace my image path
 	},
 ];
 
+
 export const socialMedia = [
 	{
-		id: 1,
-		img: "/git.svg",
+	  id: 1,
+	  img: "/git.svg",
 	},
 	{
-		id: 2,
-		img: "/twit.svg",
+	  id: 2,
+	  img: "/twit.svg",
 	},
 	{
-		id: 3,
-		img: "/link.svg",
+	  id: 3,
+	  img: "/link.svg",
 	},
-];
+  ];
