@@ -1,10 +1,10 @@
 import { img } from "framer-motion/client";
 
 export const navItems = [
-	{ name: "Sobre", link: "#sobre" },
-	{ name: "Projetos", link: "#projetos" },
-	{ name: "Feedbacks", link: "#feedbacks" },
-	{ name: "Contato", link: "#contato" },
+	{ name: "Sobre", link: "#about" },
+	{ name: "Projetos", link: "#projects" },
+	{ name: "Feedbacks", link: "#testimonials" },
+	{ name: "Contato", link: "#contact" },
 ];
 
 export const gridItems = [
