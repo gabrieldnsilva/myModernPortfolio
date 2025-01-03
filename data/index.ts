@@ -187,6 +187,27 @@ export const workExperience = [
 		className: "md:col-span-2",
 		thumbnail: "/exp1.svg", // Replace my image path
 	},
+	{
+		id: 2,
+		title: "Modelo",
+		desc: "Modelo",
+		className: "md:col-span-2",
+		thumbnail: "/exp2.svg",
+	},
+	{
+		id: 3,
+		title: "Modelo",
+		desc: "Modelo",
+		className: "md:col-span-2",
+		thumbnail: "/exp3.svg",
+	},
+	{
+		id: 4,
+		title: "Modelo",
+		desc: "Modelo",
+		className: "md:col-span-2",
+		thumbnail: "/exp4.svg",
+	},
 ];
 
 
